@@ -22,7 +22,7 @@ def third_challenge
         "51"},
         #your key/value pairs here
         },
-      :heroine => {name: "Juliet", age: "15", 
+      :heroine => {name: "Juliet", age: "15",
         status: "alive"},
         #your key/value pairs here
         },
